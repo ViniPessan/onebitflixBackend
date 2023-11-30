@@ -21,9 +21,13 @@ O Onebitflix é um clone da Netflix desenvolvido durante o curso da Onebitcode, 
 - Javascript
 - Node
 - Next
+- Bootstrap
+- Sass
 - PostgreSQL
 - Express
 - Sequelize
+- AdminJs
+  
 ## Inicialização
 Utilizando as tecnologias citadas, Precisamos instalar algumas bibliotecas: 
 - express@~4.17.2 
@@ -35,4 +39,14 @@ Utilizando as tecnologias citadas, Precisamos instalar algumas bibliotecas:
 - pg@~8.7.1 
 - sequelize@~6.13.0
 
-Editor de códigos usado: visual studio code
+Editor de códigos usado: visual studio code.
+
+## Página home do adminJs não autenticada:
+![image](https://github.com/ViniPessan/onebitflixBackend/assets/136939544/7105cb26-d682-4ada-a101-ae1c14792fd3)
+
+
+## Página home do adminJs autenticada:
+![image](https://github.com/ViniPessan/onebitflixBackend/assets/136939544/bfd70979-6e4c-4b26-abbb-84df09ed9ebd)
+
+
+
